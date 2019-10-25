@@ -4,7 +4,7 @@ subtitle:
 email: perudayani@berkeley.edu
 description: My personal website
 baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: perudayani.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
