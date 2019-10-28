@@ -172,7 +172,6 @@ show_tile: true
 				<div class="content">
 					<img src="assets/images/16a.jpg" align="center" alt="" data-position="center center" />
 					<br>
-					<br>
 					<p align="center">
 						<h4 align="center"><u>EECS 16A Teaching Assistant</u></h4>
 						<h4 align="center">UCB College of Engineering</h4>
