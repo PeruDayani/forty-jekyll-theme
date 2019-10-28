@@ -64,7 +64,7 @@ show_tile: true
 			</div>
 			<div class="4u 12u$(medium)">	
 				<div class="content">
-					<img src="assets/images/winar.jpg" alt="" data-position="center center" />
+					<img src="assets/images/winar_2.jpg" alt="" data-position="center center" />
 					<p align="center">
 						<h4 align="center"><u>CEO & Founder</u></h4>
 						<h4 align="center">WinAR</h4>
