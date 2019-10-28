@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: My Blog
+landing-title: All aricles
 nav-menu: true
-description: null
-image: null
+description: Some thoughts on education
+image: assets/images/sunset.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
 
 <h1>All posts</h1>
