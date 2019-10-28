@@ -1,0 +1,361 @@
+I"Ê6<!-- Banner -->
+<section id="banner" class="major">
+<div class="inner">
+    <header class="major">
+        <h1>Peru Dayani</h1>
+        <h1>Portfolio</h1>
+    </header>
+    <!--
+    <a href="#one" class="button next scrolly">My work</a> 
+    -->  
+    <a href="#one" class="button next scrolly">Professional Experience</a>  
+    <br />
+    <br />
+    <a href="#two" class="button next scrolly">Personal Projects</a>   
+</div>
+</section>
+
+<!-- One -->
+<!--
+<section id="one">
+	<div class="inner">
+		<div class="row">
+			<div class="4u 12u$(medium)" align="center">	
+				<a href="#one" class="button next scrolly" align="center">Professional</a> 	
+			</div>
+			<div class="4u 12u$(medium)" align="center">	
+				<a href="#two" class="button next scrolly" align="center">Personal</a> 
+			</div>
+			<div class="4u 12u$(medium)" align="center">	
+				<a href="#three" class="button next scrolly" align="center">Educational</a> 
+			</div>
+		</div>
+	</div>
+</section>
+-->
+<section id="one">
+	<div class="inner" align="center">
+		<h2> <u> Professional Work </u> </h2>
+		<br />
+		<div class="row">
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/ISAACS1.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Head Researcher</u></h4>
+						<h4 align="center">UCB Center For Augmented Cognition</h4>
+						<p align="center">
+							Leading ISAACS, a team utilizing VR/AR to define a new paradigm for humans to interact with UAV swarms under the guidance of Prof. Allen Yang and Prof. Claire Tomlin.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://vivecenter.berkeley.edu/research1/isaacs/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/winar.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>CEO &amp; Founder</u></h4>
+						<h4 align="center">WinAR</h4>
+						<p align="center">
+							Founded company to enhance athlete training worldwide by proving the ability to run perfect drills against a customizable AR opponent in a risk free environment.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani/WinAR2.0" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/radviz.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Head Researcher</u></h4>
+						<h4 align="center">UCB Center For Augmented Cognition</h4>
+						<p align="center">
+							Leading RadViz, a team visualizing radiation and LiDAR  live-streamed  from a drone in real time in the Hololens under the guidance of  Prof. Allen Y. Yang and  Prof. Kai Vetter.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/immersive-command-system/RadiationVisualization" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section>
+	<div class="inner">
+		<div class="row">		
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/lstm.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Machine Learning Research Intern</u></h4>
+						<h4 align="center">German Aerospace Center</h4>
+						<p align="center">
+							Developed LSTM Neural Nets to predict the frustration levels in real time of human drivers &amp; passengers based on various features such as facial video, body posture and heart rate. 
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/trezi.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Software Engineering Intern</u></h4>
+						<h4 align="center">SmartVizX</h4>
+						<p align="center">
+							Developed backend to streamline addition of models to database and optimize mesh creation for Trezi, an design-to-manufacturing software product for architects.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://www.trezi.com/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/eds.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Data Science Intern</u></h4>
+						<h4 align="center">Environmental Design Solutions</h4>
+						<p align="center">
+							Developed and tested analytic tools to find trends in simulated temperature readings to be used for optimizing the architectural building design using Python.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://edsglobal.com/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+		<br />
+		<br />
+		<div class="row">			
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/childvr.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Undergraduate Researcher</u></h4>
+						<h4 align="center">UCB Gopnik Psychology Lab</h4>
+						<p align="center">
+							Leading technical development to discover insights about the learning curves of children and adults in non-intuitive environments that violate our core knowledge about the physical world advised by Prof. Jitendra Malik and Prof.  Alison Gopnik.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani/Psych_Child_Learning_Research_Project" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/16a.jpg" align="center" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>EECS 16A Teaching Assistant</u></h4>
+						<h4 align="center">UCB College of Engineering</h4>
+						<p align="center">
+							Lab TA for EECS 16A (Designing Information Devices and Systems I): the undergraduate introductory circuit theory course. Teaching theory behind cameras, touchscreens, and audio positioning systems and then mentoring students to build these systems.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="http://inst.eecs.berkeley.edu/~ee16a/fa19/#staff" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/px80.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Undergraduate Researcher</u></h4>
+						<h4 align="center">Vive Center for Augmented Recognition</h4>
+						<p align="center">
+							Developed fundamental hybrid hardware platform that fuses LiDAR, depth and RGB cameras to record multi-modality 3D data to create efficient open sourced scans of UC Berkeley for further AR/VR research and applications.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://vivecenter.berkeley.edu/research1/openark-atlas/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+		<br />
+		<br />
+		<div class="row">
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/better.jpg" alt="" data-position="center center" />
+					<br />
+					<br />
+					<br />
+					<br />
+					<p align="center">
+						<h4 align="center"><u>Backend Engineer</u></h4>
+						<h4 align="center">Better Sports Corporation</h4>
+						<p align="center">
+							Developed backend architecture to support real time Fantasy and eSports betting application using Java, PostgresQL, Springboot and SportsRadar API.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://www.crunchbase.com/organization/better-sports-corporation#section-overview" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/citrus.jpg" alt="" data-position="center center" />
+					<br />
+					<br />
+					<p align="center">
+						<h4 align="center"><u>Undergraduate Researcher</u></h4>
+						<h4 align="center">Social Apps Lab CITRUS</h4>
+						<p align="center">
+							Conducted UX research for existing website and implemented an autonomous chat bot to aid users on this platform for democratic assembly and decision making.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://citris-uc.org/social-apps-lab/project/appcivist-2/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/chinavr.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>VR Course Head</u></h4>
+						<h4 align="center">MakerFunc Bootcamp</h4>
+						<p align="center">
+							Lead curriculum development, graded projects and delivered lectures to 60 + students on VR development at the Makerfunc bootcamp in Beijing, China.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://xr.berkeley.edu/decal/" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+		<br />
+		<br />
+	</div>
+</section>
+
+<section id="two">
+	<div class="inner" align="center">
+		<h2> <u> Personal Projects </u> </h2>
+		<br />
+		<div class="row">
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>True News</u></h4>
+						<p align="center">
+							Developing a platform to provide online new consumers supplementary articles on different perspectives to enable them to form informed and unbiased perspectives. 
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://joyceml4.wixsite.com/true-news" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>Decentralizing Trading</u></h4>
+						<p align="center">
+							Developed an application to allow users to automate stock market strategies based on real-time tweets and news from select individuals and publications.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani?tab=repositories" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>AirBand</u></h4>
+						<p align="center">
+							Developed an EEG controller requiring absolutely no motor control for video games for the differently abled to make gaming an inclusive industry. 
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://devpost.com/software/air-band-pva2tn" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="two">
+	<div class="inner">
+		<div class="row">	
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>CalHacks 6.0</u></h4>
+						<p align="center">
+							Developing a SaaS product for educational enterprises to derive insights on online modules by tracking the student's emotional state.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani/CalHacks6" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>	
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>BearMaps</u></h4>
+						<p align="center">
+							Bear Maps is a web mapping application that finds the shortest route between two points in Berkeley. This is a project from UC Berkeley's CS61B Data Structures course. 
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani/BearMaps" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+			<div class="4u 12u$(medium)">	
+				<div class="content">
+					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<p align="center">
+						<h4 align="center"><u>NBA Fantasy Draft</u></h4>
+						<p align="center">
+							Developed a real-time webscraper to obtain key meterics for our NBA All-Star Fantasy draft. This allows two users to 'draft' the All-Star cohort and measure their teams on points, assists, etc.
+						</p>
+						<ul class="actions" align="center">
+							<li><a href="https://github.com/PeruDayani/Fantasy" class="button small fit">Read more</a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="three">
+	<div class="inner" align="center">
+		<h2><u>What's next?</u></h2>
+		<h5>Bilingual music AI</h5>
+		<h5>Interactive NLP presentations </h5>
+		<h5>Student Emotion Tracker</h5>
+		<br />
+		<ul class="actions">
+			<li><a href="#Three" class="button next scrolly">Join Me</a></li>
+		</ul>
+	</div>
+</section>
+
+<section id="Three">
+</section>
+:ET

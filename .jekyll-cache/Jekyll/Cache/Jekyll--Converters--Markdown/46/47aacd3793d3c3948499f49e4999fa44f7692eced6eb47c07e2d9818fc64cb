@@ -1,0 +1,356 @@
+I"�/<!-- Main -->
+<div id="main" class="alt">
+
+<!-- Banner -->
+<section id="banner" class="major">
+<div class="inner">
+    <header class="major">
+        <h1>Dig A little deeper.</h1>
+    </header>
+    <a href="assets/images/Peru_Dayani_Resume.pdf" class="button icon fa-download">Download</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#one" class="button next scrolly">View Online</a>   
+</div>
+</section>
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+
+
+<!-- Content -->
+<h2 id="content">Resume</h2>
+
+<p>Technical Overview.</p>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h2>Technologies</h2>
+	</div>
+	<div class="4u 12u$(medium)">
+		<u><h3>Everyday Development</h3></u>
+		<h4>
+		<ul>
+			<li>Python</li>
+			<li>C++ &amp; C#</li>
+			<li>ROS</li>
+			<li>Unity</li>
+			<li>HTML/CSS</li>
+			<li>AWS</li>
+			<li>JSON &amp; REST</li>
+			<li>scikit-learn</li>
+		</ul>
+		</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<u><h3>Learning</h3></u>
+		<h4>
+		<ul>
+			<li>Tensorflow</li>
+			<li>Keras</li>
+			<li>Swift</li>
+			<li>JavaScript</li>
+			<li>Node.js</li>
+			<li>Flask</li>
+		</ul>
+		</h4>
+	</div>
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3>Work Experience</h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Lead Researcher</h4>
+		<h4>UCB Center For Augmented Cognition | Aug 2017 - Present </h4>
+		<ul>
+			<li>Leading ISAACS, a team utilizing VR/AR to define a new paradigm for humans to interact with UAV swarms under the guidance of Prof. Allen Yang and Prof. Claire Tomlin.</li>
+			<li>Head author for paper presenting a novel approach to controlling a swarm of drones using a VR interface for multiple UAV missions to decrease collisions.</li>
+			<li>Developing intuitive path planning features for swarms using Python, C++ and  Unity.</li>
+			<li>Developing ROS Bridge to control multiple drones and stream LiDAR, camera and GPS data in real-time using ROS, C++ and Python.</li>
+		</ul>
+		<a href="https://vivecenter.berkeley.edu/research1/isaacs/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>EECS 16A Undergrad Teaching Assistant</h4>
+		<h4>UC Berkeley College of Engineering | Aug 2019 - Present</h4>
+		<ul>
+			<li>Lab TA for EECS 16A (Designing Information Devices and Systems I): the undergraduate introductory circuit theory course.</li>
+			<li>Deliver lab lectures on theory behind cameras, touchscreens, and audio positioning systems and then help students build these systems.</li>
+			<li>Create and grade exam problems, evaluate lab performance, and mentor lab assistants.</li>
+		</ul>
+		<a href="http://inst.eecs.berkeley.edu/~ee16a/fa19/#staff">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Lead Researcher</h4>
+		<h4>UCB Center For Augmented Cognition | Aug 2017 - Present </h4>
+		<ul>
+			<li>Leading RadViz, a team visualizing radiation and LiDAR  live-streamed  from a drone in real time in the Hololens under the guidance of  Prof. Allen Y. Yang and  Prof. Kai Vetter.</li>
+			<li>Developing algorithm to 3D point cloud of LiDAR and gamma data using Google Cartographer, C# and Unity.</li>
+			<li>Managing partnership with Lawrence Berkeley National Laboratory and leading product design and development</li>
+		</ul>
+		<a href="https://github.com/immersive-command-system/RadiationVisualization">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Undergraduate Researcher</h4>
+		<h4>UC Berkeley Gopnik Psychology Lab | Aug 2019 - Present</h4>
+		<ul>
+			<li>Leading technical development to discover insights about the learning curves of children and adults in non-intuitive environments that violate our core knowledge about the physical world advised by Prof. Jitendra Malik and Prof.  Alison Gopnik..</li>
+			<li>Developing novel environments to test established norms about physical causality, Object permanence and gravity to run user studies.</li>
+			<li>End goal is to write a research paper on developing novel AI frameworks for VR systems based on observed trends.</li>
+		</ul>
+		<a href="http://www.gopniklab.berkeley.edu/current-studies">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>CEO &amp; Founder</h4>
+		<h4>WinAR | Jan 2019 - Present</h4>
+		<ul>
+			<li>Founded and leading company to enhance athlete training worldwide by proving the ability to run perfect drills against a customizable AR opponent in a risk free environment.</li>
+			<li>Conducting market research, developing business model and managing partnership with Cal Football.</li>
+			<li>Developed MVP using ARCore, Unity, C# and AndroidStudio and leading iteration based on user testing with Cal Football.</li>
+		</ul>
+		<a href="https://github.com/PeruDayani/WinAR2.0">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Product Manager</h4>
+		<h4>True News | Aug 2019 - Present</h4>
+		<ul>
+			<li>Developing a platform to provide users consuming news online supplementary article suggestions on different perspectives in real time enabling  them to form informed and unbiased perspectives.</li>
+			<li>Leading development of sentiment analysis algorithm to label an articles perspective,  a web scraper to create a database of articles using Python, and chrome plugin for MVP.</li>
+			<li>Conducting market research, user interviews and testing, and developing business model and marketing strategy. </li>
+		</ul>
+		<a href="https://joyceml4.wixsite.com/true-news">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Head Workshop Organizer</h4>
+		<h4>VR Decal | Jan 2019 - Present</h4>
+		<ul>
+			<li>Leading development of open sourced workshops on numerous VR fields such as Unity, OVR, VRTK, Animation, Haptics, Photon, UNet, etc.</li>
+			<li>Managing relationships and logistics with 20+ organizations to hold VR workshops every semester. </li>
+		</ul>
+		<a href="https://xr.berkeley.edu/decal/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Head of Engineering</h4>
+		<h4>ISAB | Aug 2019 - Present</h4>
+		<ul>
+			<li>Leading maintenance of website hosting, databases and automating updating protocols using Python, Django and MySQL.</li>
+			<li>Leading development of Messenger bot integration to create live Q&amp;A feature using Python, JavaScript, HTML, Django and Websockets. </li>
+		</ul>
+		<a href="https://isab.berkeley.edu/committees">Link</a>
+	</div>
+	<hr />
+</div>
+
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Machine Learning Research Intern</h4>
+		<h4>German Aerospace Center | July 2019 - Aug 2019 </h4>
+		<ul>
+			<li>Developed LSTM neural nets to predict human frustration levels based on facial video, posture, heart rate and skin conductance levels.</li>
+			<li>Studied human emotion theory to help design user study and create structured plan for future development.</li>
+			<li>Created automated file sorting, simulation load optimization and streamlined UI systems to reduce the user study time by 1.5 hours each.</li>
+		</ul>
+		<a href="https://docs.google.com/presentation/d/1oGcIWULsNdY_mq9-OAo_FWN97Ui1-RmaQ-vwgYlUC8w/edit?usp=sharing">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Undergraduate Researcher</h4>
+		<h4>FHL Vive Center for Augmented  | June 2019 – Aug 2019 </h4>
+		<ul>
+			<li>Developed circuit to trigger depth and RDG cameras based on LiDAR signals using op amps, voltage dividers and regulators.</li>
+			<li>Integrated arduino code to timestamp every image with global time and  analysis algorithms to reduce image mapping error.</li>
+			<li>Developed preliminary ROS architecture to interpret and calibrate LiDAR point cloud data with images.</li>
+		</ul>
+		<a href="https://vivecenter.berkeley.edu/research1/openark-atlas/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Backend Engineer</h4>
+		<h4>Better Sports Corporation | Jan 2019 – June 2019 </h4>
+		<ul>
+			<li>Developed backend architecture to support real time Fantasy and eSports betting application using Java, PostgresQL, Springboot and SportsRadar API.</li>		
+			<li>Developed real time betting MVP using a web scraper built using python, opensoup and ESPN API.</li>
+		</ul>
+		<a href="https://www.crunchbase.com/organization/better-sports-corporation#section-overview">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Undergraduate Researcher</h4>
+		<h4>Social Apps Lab CITRUS | Aug 2018 - Dec 2018</h4>
+		<ul>
+			<li>Conducted UX research via site analysis and interviews to understand the current pain points in the website.</li>
+			<li>Developed preliminary chat bot using Python targeting problems found and integrated into website using JavaScript.</li>
+		</ul>
+		<a href="https://citris-uc.org/social-apps-lab/project/appcivist-2/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>CS9 Tutor</h4>
+		<h4>UC Berkeley College of Engineering | Aug 2018 - May 2019</h4>
+		<ul>
+			<li>Developed curriculum, graded exams and tutored students on fundamental concepts and project bugs for Python, C, C++,  and Java course.</li>
+		</ul>
+		<a href="https://selfpaced.bitbucket.io/#/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>VR Course Head</h4>
+		<h4>MakerFunc Bootcamp Beijing | July 2018 - Aug 2019</h4>
+		<ul>
+			<li>Developed curriculum, graded exams and tutored students on fundamental concepts and project bugs for Python, C, C++,  and Java course.</li>
+		</ul>
+		<a href="#">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Software Engineering Intern</h4>
+		<h4>SmartVizX</h4>
+		<ul>
+			<li>Developed system to streamline checking and addition of product models to database for manufacturers using Java, Unity and C++.</li>
+			<li>Developed algorithms to optimize mesh creation for all models in Unity to reduce runtime lag using C#. </li>
+			<li>Learned the rigour, freedom and accountability of working in a startup.</li>
+		</ul>
+		<a href="https://www.trezi.com/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Software Developer</h4>
+		<h4>Pioneers in Engineering, Berkeley | Aug 2017 - May 2018</h4>
+		<ul>
+			<li>Developing SHEPARD, an autonomous software to manage our annual robotics competition for high school students in Python.</li>
+		</ul>
+		<a href="https://pioneers.berkeley.edu/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Graphic Designer</h4>
+		<h4>Immersive Animation, VR@B | Jan 2018 - May 2018</h4>
+		<ul>
+			<li>Created models for short animated VR movies in Maya.</li>
+		</ul>
+		<a href="https://xr.berkeley.edu/">Link</a>
+	</div>
+	<hr />
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3></h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Data Science Intern</h4>
+		<h4>Environmental Design Solutions | May 2017 - July 2017</h4>
+		<ul>
+			<li>Ran simulations to measure temperature values in for a building design and then generate reports on observed trends for design team.</li>
+			<li>Developed analytic tool to automate the process of running simulations and finding trends using Python.</li>
+		</ul>
+		<a href="https://edsglobal.com/">Link</a>
+	</div>
+	<hr />
+</div>
+
+</div>
+</section>
+
+</div>
+:ET

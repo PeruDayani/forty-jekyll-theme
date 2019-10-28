@@ -8,11 +8,11 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner.jpg")');
+		@include vendor('background-image', 'url("../images/Peru_Blog.jpg")'); //Cover photo
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
-		background-position: center;
+		background-position: bottom 10px; //TODO
 		background-repeat: no-repeat;
 		background-size: cover;
 		border-bottom: 0 !important;
@@ -33,7 +33,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.50 ;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -95,7 +95,7 @@
 		}
 
 		&.major {
-			height: 75vh;
+			height: 100vh;
 			min-height: 30em;
 			max-height: 50em;
 
