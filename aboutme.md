@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: 'My Story'
-image: assets/images/Peru_AboutMe.jpg
+image: assets/images/aboutme_cover.jpg
 nav-menu: true
 ---
 
