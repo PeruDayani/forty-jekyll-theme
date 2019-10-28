@@ -146,7 +146,7 @@ Year 20: Traded a paper clip for a huge teddy bear.
 		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
-		<img src="assets/images/20bday.jpg" alt="" />		
+		<img src="assets/images/20.jpg" alt="" />		
 		<br>
 		<br>
 		<ul class="actions" align="center">
