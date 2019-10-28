@@ -1,4 +1,4 @@
-I"17<!-- Banner -->
+I"7<!-- Banner -->
 <section id="banner" class="major">
 <div class="inner">
     <header class="major">
@@ -307,7 +307,7 @@
 		<div class="row">	
 			<div class="4u 12u$(medium)">	
 				<div class="content">
-					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<img src="assets/images/emotion.jpg" alt="" data-position="center center" />
 					<p align="center">
 						<h4 align="center"><u>CalHacks 6.0</u></h4>
 						<p align="center">
@@ -321,7 +321,7 @@
 			</div>	
 			<div class="4u 12u$(medium)">	
 				<div class="content">
-					<img src="assets/images/nba.jpg" alt="" data-position="center center" />
+					<img src="assets/images/bearmaps.jpg" alt="" data-position="center center" />
 					<p align="center">
 						<h4 align="center"><u>BearMaps</u></h4>
 						<p align="center">
@@ -362,8 +362,5 @@
 			<li><a href="#Three" class="button next scrolly">Join Me</a></li>
 		</ul>
 	</div>
-</section>
-
-<section id="Three">
 </section>
 :ET

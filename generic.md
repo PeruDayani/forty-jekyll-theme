@@ -372,7 +372,3 @@ show_tile: true
 		</ul>
 	</div>
 </section>
-
-
-<section id="Three">
-</section>
